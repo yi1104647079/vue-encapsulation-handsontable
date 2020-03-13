@@ -43,7 +43,7 @@ handsontable的属性mergeCells可以进行表格合并，但需按照特定规�
 
 当数据为调取后端时候，需要动态的计算出合并位置。所以根据此属性需要将数据重组成以下类型，才可合并。
 
-```json
+```
 //所需要合并的字段必须每一个的都需要有值，可能需要个人的数据处理
 [
 	{typeName: '测试1', name: '名称1', targetMoney:'10', actualMoney: '20'},
@@ -129,7 +129,8 @@ setTimeout(() => {
 
 - 所开发功能大部分使用逻辑开发，可以稍微改后用于其他框架
 
-  
+### 注
+  handsontable虽然有免费版本，但是必须设置秘钥licenseKey，否则底部会显示一行提示英文。秘钥生成网址https://blog.csdn.net/hefeng6500/article/details/101622463，按照其步骤即可。
 
 ### 开发者 & 其他
 
