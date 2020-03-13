@@ -1,0 +1,22 @@
+{
+  "name": "vue-encapsulation-handsontable",
+  "version": "0.0.1",
+  "description": "A Vue handsontable",
+  "main": "handsontable/handsontable.vue",
+  "bin": "handsontable.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/yiforget/vue-encapsulation-handsontable.git"
+  },
+  "keywords": [
+    "handsontable",
+    "vue"
+  ],
+  "author": "forget",
+  "license": "MIT",
+  "homepage": "https://gitee.com/yiforget/vue-encapsulation-handsontable#readme",
+  "_from": "vue-encapsulation-handsontable@0.0.1"
+}
